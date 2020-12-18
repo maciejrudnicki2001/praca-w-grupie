@@ -29,12 +29,3 @@ int main() {
     }
     cout << "Brawo zgadles liczba to:"; 
     cout << zmienna;    
-        
-    
-
-
-
-
-
-    return 0;
-}
